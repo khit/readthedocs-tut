@@ -23,4 +23,4 @@ Contents
    usage
    api
    img-test
-   md-test.md
+   md-test
